@@ -1,2 +1,2 @@
 # Template-2
-#thanks to rl zero web courses
+#thanks to el zero web courses
